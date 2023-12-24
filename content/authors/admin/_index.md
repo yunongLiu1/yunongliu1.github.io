@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: Yunong Liu (刘雨浓)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yunong
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐱
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSCS Student at Stanford University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm currently a 
 
 # Interests to show in About widget
 interests:
